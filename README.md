@@ -1,5 +1,5 @@
 # Airbnb-Sales-Insights
-## [Tableau Dashboard](https://public.tableau.com/app/profile/parth.maheshwari4046/viz/Airbnb_Seattle_project/Dashboard1?publish=yes)
+## [View Tableau Dashboard](https://public.tableau.com/app/profile/parth.maheshwari4046/viz/Airbnb_Seattle_project/Dashboard1?publish=yes)
 </br>
 
 ![image](https://github.com/ParthM16/Airbnb-Sales-Insights/assets/136796479/2e41eef0-14ff-49ac-a572-d055303d3f42)
