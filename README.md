@@ -1,4 +1,4 @@
-# Airbnb-Sales-Insights
+# Click to  view Airbnb-Sales-Insights
 ## [View Tableau Dashboard](https://public.tableau.com/app/profile/parth.maheshwari4046/viz/Airbnb_Seattle_project/Dashboard1?publish=yes)
 </br>
 
